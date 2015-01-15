@@ -2,10 +2,15 @@
 Netblock Backbone script to scan worldwide by country
 
 //////////////////////////////////////////////////////
+
 //                netblock pre scanner              //
+
 // Usage: php netblock_prescanner <country>         //
+
 // Usage: php netblock_prescanner <country> <mask>  //
+
 //////////////////////////////////////////////////////
+
 
 # php netblock_prescanner cr
 DONE-SINGLE: 186.15.128.0 in 10.019503116608
